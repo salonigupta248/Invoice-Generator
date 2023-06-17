@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/salonigupta248/Invoice-Generator/static/css/main.52314dbf.css",
+    "main.js": "/salonigupta248/Invoice-Generator/static/js/main.fc095b68.js",
+    "index.html": "/salonigupta248/Invoice-Generator/index.html",
+    "main.52314dbf.css.map": "/salonigupta248/Invoice-Generator/static/css/main.52314dbf.css.map",
+    "main.fc095b68.js.map": "/salonigupta248/Invoice-Generator/static/js/main.fc095b68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52314dbf.css",
+    "static/js/main.fc095b68.js"
+  ]
+}
